@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Тир Боец — премиальная стрельба и тренировки">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06080d"/>
+      <stop offset="50%" stop-color="#121821"/>
+      <stop offset="100%" stop-color="#1b2430"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff944d"/>
+      <stop offset="100%" stop-color="#ff5a2a"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#989ba6"/>
+      <stop offset="50%" stop-color="#dfe4ec"/>
+      <stop offset="100%" stop-color="#6b7382"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="20" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" rx="44" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1116" height="546" rx="30" fill="#101722" stroke="#2a3240" stroke-width="2"/>
+  <circle cx="1030" cy="160" r="170" fill="#ff6b35" opacity="0.15"/>
+  <circle cx="250" cy="500" r="220" fill="#f4d35e" opacity="0.08"/>
+  <g filter="url(#shadow)">
+    <rect x="92" y="118" width="320" height="208" rx="28" fill="#18202f"/>
+    <rect x="126" y="152" width="252" height="76" rx="16" fill="#232b3b"/>
+    <path d="M156 224c24-62 76-102 132-102 54 0 100 32 122 82" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M170 226h190" stroke="#f4d35e" stroke-width="8" stroke-linecap="round"/>
+    <path d="M210 200l40-68 40 68" fill="none" stroke="#ff6b35" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="250" cy="226" r="18" fill="#ff6b35"/>
+    <path d="M146 278h216" stroke="#5d6777" stroke-width="7" stroke-linecap="round" opacity="0.8"/>
+  </g>
+  <text x="116" y="382" fill="#f7f7f2" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="800">Тир «Боец»</text>
+  <text x="116" y="438" fill="#ff9e66" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">Премиальная атмосфера для стрельбы и тренировок</text>
+  <text x="116" y="488" fill="#9fa7b7" font-family="Inter, Arial, sans-serif" font-size="24">Безопасные программы, профессиональная пневматика и стильный отдых</text>
+  <rect x="116" y="516" width="228" height="10" rx="5" fill="url(#accent)"/>
+  <rect x="360" y="118" width="720" height="332" rx="28" fill="#0f1521" stroke="#273141" stroke-width="2"/>
+  <text x="402" y="186" fill="#7d8697" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="3">BRAND EXPERIENCE</text>
+  <text x="402" y="250" fill="#f7f7f2" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Современный тир</text>
+  <text x="402" y="300" fill="#f7f7f2" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">для точности и отдыха</text>
+  <text x="402" y="352" fill="#9fa7b7" font-family="Inter, Arial, sans-serif" font-size="24">индивидуальные занятия • семейные визиты • корпоративные выезды</text>
+  <circle cx="972" cy="398" r="88" fill="none" stroke="url(#accent)" stroke-width="16" opacity="0.85"/>
+  <circle cx="972" cy="398" r="52" fill="none" stroke="url(#metal)" stroke-width="12" opacity="0.7"/>
+</svg>

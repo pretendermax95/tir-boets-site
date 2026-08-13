@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#07080b"/>
+  <g transform="translate(80,120)">
+    <rect x="40" y="220" width="740" height="28" rx="12" fill="#0c0f12" stroke="#5b6167" stroke-width="3" />
+    <rect x="160" y="160" width="520" height="120" rx="18" fill="#121519" stroke="#888d92" stroke-width="3" />
+    <rect x="40" y="260" width="180" height="14" rx="8" fill="#0b0d0f" />
+    <!-- stylized scope -->
+    <g transform="translate(720,170)">
+      <rect x="0" y="14" width="200" height="48" rx="10" fill="#0a0c0e" stroke="#6f7479" stroke-width="4" />
+      <circle cx="60" cy="38" r="10" fill="#ff7a00" opacity="0.95" />
+    </g>
+  </g>
+  <g transform="translate(880,80)">
+    <circle r="96" fill="none" stroke="#b23838" stroke-width="10" opacity="0.6"/>
+    <circle r="38" fill="#1b1f22" stroke="#ff7a00" stroke-width="6"/>
+  </g>
+</svg>

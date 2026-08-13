@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img" aria-label="Логотип Тир Боец">
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#101723" stroke="#ff6b35" stroke-width="2"/>
+  <path d="M20 36h24" stroke="#f4d35e" stroke-width="5" stroke-linecap="round"/>
+  <path d="M22 32l12-18 12 18" stroke="#ff6b35" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="34" cy="36" r="7" fill="#ff6b35"/>
+  <text x="74" y="28" fill="#f7f7f2" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Тир</text>
+  <text x="74" y="48" fill="#ff8b3f" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Боец</text>
+</svg>

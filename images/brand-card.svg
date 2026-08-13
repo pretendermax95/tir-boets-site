@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Тир Боец — бренд карточка">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07090e"/>
+      <stop offset="100%" stop-color="#151c29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff944d"/>
+      <stop offset="100%" stop-color="#ff5a2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="40" fill="url(#bg)"/>
+  <rect x="62" y="62" width="1076" height="506" rx="32" fill="#0f1521" stroke="#273141" stroke-width="2"/>
+  <circle cx="990" cy="182" r="200" fill="#ff6b35" opacity="0.12"/>
+  <circle cx="246" cy="498" r="220" fill="#f4d35e" opacity="0.07"/>
+  <rect x="118" y="128" width="280" height="188" rx="26" fill="#1b2432"/>
+  <path d="M176 270h164" stroke="#f4d35e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M206 250l44-74 44 74" fill="none" stroke="#ff6b35" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="250" cy="270" r="16" fill="#ff6b35"/>
+  <text x="118" y="378" fill="#f7f7f2" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="800">Тир «Боец»</text>
+  <text x="118" y="432" fill="#ff9e66" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Премиальный тир для точности, отдыха и подготовки</text>
+  <text x="118" y="482" fill="#9fa7b7" font-family="Inter, Arial, sans-serif" font-size="24">безопасные программы • профессиональная пневматика • атмосферные встречи</text>
+  <rect x="118" y="516" width="260" height="10" rx="5" fill="url(#accent)"/>
+  <rect x="742" y="142" width="278" height="278" rx="36" fill="none" stroke="url(#accent)" stroke-width="20"/>
+  <circle cx="881" cy="281" r="98" fill="none" stroke="#dfe4ec" stroke-width="14" opacity="0.75"/>
+  <circle cx="881" cy="281" r="58" fill="#ff6b35" opacity="0.2"/>
+</svg>
