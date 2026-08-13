@@ -1,0 +1,12 @@
+{
+  "name": "ai-agent-runner",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node agent/runner.js serve",
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
